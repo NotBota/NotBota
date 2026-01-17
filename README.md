@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Sergiu 👋
 
-<!--
-**NotBota/NotBota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer interested in building web applications and learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 I work with: Java, C, Typescript
+- 🛠️ Interested in: Web development, APIs
+- 📫 How to reach me: sergiuigret1912@gmail.com
+
+---
+
+## 🧰 Tech Stack
+
+- Frontend: React, tailwindCSS, Next.js
+- Backend: Spring Boot
+- Database: PostgreSQL
+- Tools: Git, Docker
+- Other Languages: C, Java
+
+---
+
+## 🔗 Links
+
+- LinkedIn: https://linkedin.com/in/yourname
