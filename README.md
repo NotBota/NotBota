@@ -24,4 +24,4 @@ I'm a software developer interested in building web applications and learning ne
 
 ## 🔗 Links
 
-- LinkedIn: https://linkedin.com/in/yourname
+- LinkedIn: https://www.linkedin.com/in/sergiu-igre%C8%9B
